@@ -1,0 +1,19 @@
+body{
+    background-color: #f2f2f2;
+    margin: 0%;
+}
+.Uperbody{
+    background-color: #cbcbcb;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+#Hd2{
+    display: flex;
+    justify-content: center;
+    padding-right:15px ;
+}
+#Hd1{
+    padding-left: 15px;
+    padding-top: 15px;
+}
